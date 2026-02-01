@@ -1,0 +1,4 @@
+-- just run the file and wait for the camera window to open
+-- use thumb + index finger to left click
+-- use thumb + ring finger to right click
+-- scrolling and stuff will be added later
